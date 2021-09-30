@@ -30,7 +30,7 @@ Web Portfolio to showcase projects and skills in better manner.
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/yourgithubpseudo/vinaysomawat.github.io.git`
+3. `git clone https://github.com/kwakuben/portfolio2.github.io.git`
 
 #### To contribute to the project:
 
